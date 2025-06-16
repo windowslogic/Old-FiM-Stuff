@@ -1,0 +1,43 @@
+              *Basics*
+
+Idle
+Crouch
+Walk Forward
+Walk Back
+Jump
+Jump Forward
+Jump Back
+Fall
+Fall Fowrward
+Fall Back
+
+               *Attacks*
+
+Standing light
+Standing Mid
+Standing Heavy
+Crouch Light
+Crouch Mid
+Crouch Heavy
+Aerial Light
+Aerial Mid
+Aerial Heavy
+Launcher
+
+               *Specials*
+
+Anyspecialscharhas.
+
+               *Supers*
+
+Anysuperscharhas.
+
+               ---------
+               Instructs
+Animate in this order, and just animate
+each move with the same rig. By this
+I mean not starting with a 'fresh'
+character rig, just animate on top of
+the updated rig. You WILL have to move,
+or create new parts. 
+
